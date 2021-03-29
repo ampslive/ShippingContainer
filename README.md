@@ -13,4 +13,4 @@ A Dotnet Console application to manage a Shipping Container.
 - Run the test case in `ContainerTests.cs`
 
 ### Why
-- This was one of the questions I was asked during one of the coding interviews
+- This was one of the questions I was asked during one of the coding interviews. I found the problem interesting, so created this repo with the solution
